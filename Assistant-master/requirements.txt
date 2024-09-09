@@ -1,9 +1,9 @@
 SpeechRecognition
- wikipedia
- wikipedia-api
- pyjokes
- pywhatkit
- plyer
+wikipedia
+wikipedia-api
+pyjokes
+pywhatkit
+plyer
 pyttsx3
 datetime
 Pillow
