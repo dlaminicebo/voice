@@ -8,4 +8,4 @@ pyttsx3
 datetime
 Pillow
 streamlit
-tkinter
+tk
