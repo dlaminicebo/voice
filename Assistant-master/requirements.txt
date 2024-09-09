@@ -4,3 +4,8 @@ SpeechRecognition
  pyjokes
  pywhatkit
  plyer
+pyttsx3
+datetime
+Pillow
+streamlit
+tkinter
