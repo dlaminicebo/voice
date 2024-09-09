@@ -1,0 +1,6 @@
+SpeechRecognition
+ wikipedia
+ wikipedia-api
+ pyjokes
+ pywhatkit
+ plyer
